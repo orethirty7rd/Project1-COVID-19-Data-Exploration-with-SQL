@@ -1,4 +1,4 @@
-# Project 2 – COVID-19 Data Exploration with SQL
+# Project 1 – COVID-19 Data Exploration with SQL
 
 ## Overview
 This project uses **SQL** to explore global COVID-19 data, analysing both **infection trends** and **vaccination progress**.  
