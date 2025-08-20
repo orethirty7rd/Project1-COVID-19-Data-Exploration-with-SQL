@@ -39,5 +39,8 @@ The goal was to clean, query, and extract insights that highlight the Impact of 
 ## Key Insights
 - Some countries had very high infection rates relative to their population size.  
 - Death rates varied significantly across regions, with some continents reporting far higher totals.  
-- Vaccination rollout was uneven, with certain countries achieving much higher vaccination rates.  
+- Vaccination rollout was uneven, with certain countries achieving much higher vaccination rates.
+
+## Files
+- All CSV files used can be found /data
 
